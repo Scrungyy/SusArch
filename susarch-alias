@@ -1,2 +1,2 @@
-add this to you .bashrc 
+add this to you .bashrc  
 alias neofetch="neofetch --ascii <path to .susarch>"
